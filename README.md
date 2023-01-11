@@ -2,7 +2,7 @@
 - 🇨🇵 French
 - 👀 I’m interested in apps devloppement
 - 🌱 I’m currently learning C# and Python
-- 💞️ I’m looking to collaborate on my own person
+- 💞️ I’m looking to collaborate with my own person
 - 📫 How to reach me : don't reach me.
 
 <!---
