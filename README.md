@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArcadeCode
 - 🇨🇵 French
 - 👀 I’m interested in apps devloppement
-- 🌱 I’m currently learning C# and Python
+- 🌱 I’m currently learning C, C++ and C#
 - 💞️ I’m looking to collaborate with my own person
 - 📫 How to reach me : don't reach me.
 
